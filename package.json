@@ -1,26 +1,25 @@
 {
-  "name": "projetc-euler-problem-3",
+  "name": "project-euler-problem-3",
   "version": "1.0.0",
-  "description": "project euler problem 3",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "Qisti",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^22.2.2"
-  },
-  "directories": {
-    "test": "test"
-  },
-  "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Qisti/project-ruler-problem-3.git"
+    "url": "git+https://github.com/Qisti/Project-Euler-Problem-3.git"
   },
+  "keywords": [
+    "projectEulerProblem3"
+  ],
+  "author": "Qisti",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Qisti/project-ruler-problem-3/issues"
+    "url": "https://github.com/Qisti/Project-Euler-Problem-3/issues"
   },
-  "homepage": "https://github.com/Qisti/project-ruler-problem-3#readme"
+  "homepage": "https://github.com/Qisti/Project-Euler-Problem-3#readme",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
 }

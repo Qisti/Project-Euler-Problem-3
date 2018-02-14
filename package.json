@@ -1,0 +1,26 @@
+{
+  "name": "projetc-euler-problem-3",
+  "version": "1.0.0",
+  "description": "project euler problem 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Qisti",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qisti/project-ruler-problem-3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Qisti/project-ruler-problem-3/issues"
+  },
+  "homepage": "https://github.com/Qisti/project-ruler-problem-3#readme"
+}

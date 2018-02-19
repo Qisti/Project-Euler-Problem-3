@@ -1,6 +1,6 @@
-const LargestPrimeNumber = require('../src/LargestPrimeNumber');
+const largestPrimeNumber = require('../src/largestPrimeNumber');
 
 test('nilai', () => {
-  expect(LargestPrimeNumber(191726)).toBe(5639);
+  expect(largestPrimeNumber(191726)).toBe(5639);
 });
 

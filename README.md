@@ -1,9 +1,8 @@
 # Project Euler Problem 3
-##### Find the Largest Prime Number
 
 This course will solve problem based on link : `https://projecteuler.net/problem=3`
 
-* there are 2 fungction yaitu isPrime dan largestPrimeNumber
+* this function will find the largest prime number 
 * use `javaScript` to write function 
 * use `jest` tool to test 
 

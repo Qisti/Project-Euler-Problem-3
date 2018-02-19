@@ -24,5 +24,7 @@ npm install --save-dev jest
 npm run test
 ```
 and the result will appear like this 
-![Images](https://github.com/Qisti/project-euler-problem-3/master/documentations/test.png)
+![Images](https://github.com/Qisti/Project-Euler-Problem-3/blob/master/documentations/test.png)
+
+
 
